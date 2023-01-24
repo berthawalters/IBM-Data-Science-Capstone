@@ -1,3 +1,3 @@
 # ibmdscapstone
-IBM Certification Data Science Capstonr
+IBM Certification Data Science Capstone
 
